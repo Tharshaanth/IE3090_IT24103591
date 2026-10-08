@@ -1,0 +1,7 @@
+agent_591
+controller_591
+agent_stdout.txt
+session_output.txt
+test_*.bin
+agentfiles/
+remoteops_*.log
