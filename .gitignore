@@ -5,3 +5,5 @@ session_output.txt
 test_*.bin
 agentfiles/
 remoteops_*.log
+report.txt
+report_copy.txt
